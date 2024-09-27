@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/7baa88d54c9f4a83a9788cbff738e176/artifacts
+deleted_time: 1726644239937
+end_time: 1726643961553
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7baa88d54c9f4a83a9788cbff738e176
+run_name: salty-deer-94
+run_uuid: 7baa88d54c9f4a83a9788cbff738e176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643955640
+status: 3
+tags: []
+user_id: yatish

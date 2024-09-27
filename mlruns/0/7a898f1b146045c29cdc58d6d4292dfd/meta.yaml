@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/7a898f1b146045c29cdc58d6d4292dfd/artifacts
+deleted_time: 1726644239985
+end_time: 1726643759826
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7a898f1b146045c29cdc58d6d4292dfd
+run_name: debonair-slug-199
+run_uuid: 7a898f1b146045c29cdc58d6d4292dfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643753758
+status: 3
+tags: []
+user_id: yatish

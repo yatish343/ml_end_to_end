@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/f22b9cd25be94ec6bcca575dbe1d24f8/artifacts
+deleted_time: 1726644239941
+end_time: 1726643974843
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f22b9cd25be94ec6bcca575dbe1d24f8
+run_name: smiling-duck-652
+run_uuid: f22b9cd25be94ec6bcca575dbe1d24f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643968970
+status: 3
+tags: []
+user_id: yatish

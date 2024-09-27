@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/1c51bea676da4e6fa2b88e7bbcb76ad3/artifacts
+deleted_time: 1726644240048
+end_time: 1726643485111
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1c51bea676da4e6fa2b88e7bbcb76ad3
+run_name: dapper-dove-113
+run_uuid: 1c51bea676da4e6fa2b88e7bbcb76ad3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643479417
+status: 3
+tags: []
+user_id: yatish

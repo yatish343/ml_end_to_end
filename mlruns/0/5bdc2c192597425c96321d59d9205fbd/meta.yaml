@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/5bdc2c192597425c96321d59d9205fbd/artifacts
+deleted_time: 1726644240012
+end_time: 1726643611185
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5bdc2c192597425c96321d59d9205fbd
+run_name: abrasive-smelt-990
+run_uuid: 5bdc2c192597425c96321d59d9205fbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643605607
+status: 3
+tags: []
+user_id: yatish

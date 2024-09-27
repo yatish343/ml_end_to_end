@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/c34148b468554158aeeef6b6e1c5ed96/artifacts
+deleted_time: 1726643443250
+end_time: 1726642856970
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c34148b468554158aeeef6b6e1c5ed96
+run_name: exultant-carp-371
+run_uuid: c34148b468554158aeeef6b6e1c5ed96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726642850830
+status: 4
+tags: []
+user_id: yatish

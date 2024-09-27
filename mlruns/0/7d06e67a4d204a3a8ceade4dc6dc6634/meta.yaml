@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/7d06e67a4d204a3a8ceade4dc6dc6634/artifacts
+deleted_time: 1725962387574
+end_time: 1725959120776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7d06e67a4d204a3a8ceade4dc6dc6634
+run_name: industrious-swan-537
+run_uuid: 7d06e67a4d204a3a8ceade4dc6dc6634
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725959117677
+status: 4
+tags: []
+user_id: yatish

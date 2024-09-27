@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/d8344225aa3d401fbd706ae6ec0e3b9c/artifacts
+deleted_time: 1726643443068
+end_time: 1726639489354
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d8344225aa3d401fbd706ae6ec0e3b9c
+run_name: selective-midge-862
+run_uuid: d8344225aa3d401fbd706ae6ec0e3b9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726639476234
+status: 4
+tags: []
+user_id: yatish

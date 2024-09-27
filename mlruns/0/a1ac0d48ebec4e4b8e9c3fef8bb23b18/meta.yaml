@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/a1ac0d48ebec4e4b8e9c3fef8bb23b18/artifacts
+deleted_time: 1726643443074
+end_time: 1726643276545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a1ac0d48ebec4e4b8e9c3fef8bb23b18
+run_name: likeable-deer-439
+run_uuid: a1ac0d48ebec4e4b8e9c3fef8bb23b18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643270952
+status: 4
+tags: []
+user_id: yatish

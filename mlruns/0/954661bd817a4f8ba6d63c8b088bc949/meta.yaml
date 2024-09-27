@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/954661bd817a4f8ba6d63c8b088bc949/artifacts
+deleted_time: 1726644240008
+end_time: 1726643659340
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 954661bd817a4f8ba6d63c8b088bc949
+run_name: luminous-donkey-165
+run_uuid: 954661bd817a4f8ba6d63c8b088bc949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643653762
+status: 3
+tags: []
+user_id: yatish

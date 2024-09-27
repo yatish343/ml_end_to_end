@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f965dea7053d461086a0fb33042b3a4a/artifacts
+end_time: 1726644467157
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f965dea7053d461086a0fb33042b3a4a
+run_name: resilient-croc-153
+run_uuid: f965dea7053d461086a0fb33042b3a4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726644461353
+status: 3
+tags: []
+user_id: yatish

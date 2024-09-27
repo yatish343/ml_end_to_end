@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/579a99a27580470f9f53a3e548e8263c/artifacts
+deleted_time: 1726644240024
+end_time: 1726643580229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 579a99a27580470f9f53a3e548e8263c
+run_name: rumbling-rook-415
+run_uuid: 579a99a27580470f9f53a3e548e8263c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643574619
+status: 3
+tags: []
+user_id: yatish

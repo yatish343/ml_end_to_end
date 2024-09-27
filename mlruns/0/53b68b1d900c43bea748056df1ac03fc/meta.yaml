@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/53b68b1d900c43bea748056df1ac03fc/artifacts
+deleted_time: 1726644240021
+end_time: 1726643596711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 53b68b1d900c43bea748056df1ac03fc
+run_name: rogue-zebra-263
+run_uuid: 53b68b1d900c43bea748056df1ac03fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643591191
+status: 3
+tags: []
+user_id: yatish

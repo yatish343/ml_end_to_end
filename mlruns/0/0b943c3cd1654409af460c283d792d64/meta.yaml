@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/0b943c3cd1654409af460c283d792d64/artifacts
+deleted_time: 1726643443159
+end_time: 1726642960654
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0b943c3cd1654409af460c283d792d64
+run_name: unruly-stork-500
+run_uuid: 0b943c3cd1654409af460c283d792d64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726642954763
+status: 4
+tags: []
+user_id: yatish

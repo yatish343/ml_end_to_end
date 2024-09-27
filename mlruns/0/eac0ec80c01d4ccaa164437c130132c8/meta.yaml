@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/eac0ec80c01d4ccaa164437c130132c8/artifacts
+deleted_time: 1726643443278
+end_time: 1726639803322
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: eac0ec80c01d4ccaa164437c130132c8
+run_name: enthused-crane-309
+run_uuid: eac0ec80c01d4ccaa164437c130132c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726639797591
+status: 4
+tags: []
+user_id: yatish

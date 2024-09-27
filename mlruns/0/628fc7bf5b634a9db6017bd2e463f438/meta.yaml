@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/628fc7bf5b634a9db6017bd2e463f438/artifacts
+end_time: 1727334731039
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 628fc7bf5b634a9db6017bd2e463f438
+run_name: rumbling-flea-179
+run_uuid: 628fc7bf5b634a9db6017bd2e463f438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727334725144
+status: 3
+tags: []
+user_id: yatish

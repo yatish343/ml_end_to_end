@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/3ef2c4b324eb46398ceef58ac47629cd/artifacts
+deleted_time: 1726644240037
+end_time: 1726643545287
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3ef2c4b324eb46398ceef58ac47629cd
+run_name: stately-colt-166
+run_uuid: 3ef2c4b324eb46398ceef58ac47629cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643539571
+status: 3
+tags: []
+user_id: yatish

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/81c78a6dd8a448eaa4493893e9adbe0e/artifacts
+end_time: 1727334744254
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81c78a6dd8a448eaa4493893e9adbe0e
+run_name: colorful-auk-603
+run_uuid: 81c78a6dd8a448eaa4493893e9adbe0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727334738435
+status: 3
+tags: []
+user_id: yatish

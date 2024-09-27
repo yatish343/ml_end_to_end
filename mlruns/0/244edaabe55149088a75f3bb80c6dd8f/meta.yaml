@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/244edaabe55149088a75f3bb80c6dd8f/artifacts
+deleted_time: 1725964055825
+end_time: 1725962916484
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 244edaabe55149088a75f3bb80c6dd8f
+run_name: shivering-toad-712
+run_uuid: 244edaabe55149088a75f3bb80c6dd8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725962912809
+status: 4
+tags: []
+user_id: yatish

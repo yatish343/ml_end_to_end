@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/fa64a86443454acda71649b945e29f6c/artifacts
+deleted_time: 1726575568026
+end_time: 1726050659279
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fa64a86443454acda71649b945e29f6c
+run_name: amazing-goose-203
+run_uuid: fa64a86443454acda71649b945e29f6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726050658900
+status: 4
+tags: []
+user_id: yatish

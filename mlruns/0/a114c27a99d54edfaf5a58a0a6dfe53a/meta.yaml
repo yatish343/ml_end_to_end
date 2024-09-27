@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/a114c27a99d54edfaf5a58a0a6dfe53a/artifacts
+deleted_time: 1726644239988
+end_time: 1726643724871
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a114c27a99d54edfaf5a58a0a6dfe53a
+run_name: skittish-fly-587
+run_uuid: a114c27a99d54edfaf5a58a0a6dfe53a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643719312
+status: 3
+tags: []
+user_id: yatish

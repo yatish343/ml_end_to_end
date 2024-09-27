@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/d3197c9124b2460fb1bfb69409fe3d33/artifacts
+deleted_time: 1726643443209
+end_time: 1726642886194
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d3197c9124b2460fb1bfb69409fe3d33
+run_name: mercurial-stag-9
+run_uuid: d3197c9124b2460fb1bfb69409fe3d33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726642880846
+status: 4
+tags: []
+user_id: yatish

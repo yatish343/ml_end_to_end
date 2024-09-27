@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/03ab9ad79a9149189a9bee7d7d7f6396/artifacts
+deleted_time: 1726644240041
+end_time: 1726643532453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 03ab9ad79a9149189a9bee7d7d7f6396
+run_name: learned-eel-738
+run_uuid: 03ab9ad79a9149189a9bee7d7d7f6396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643526699
+status: 3
+tags: []
+user_id: yatish

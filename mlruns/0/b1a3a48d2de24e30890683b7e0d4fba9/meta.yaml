@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/b1a3a48d2de24e30890683b7e0d4fba9/artifacts
+deleted_time: 1726643443177
+end_time: 1726642931159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b1a3a48d2de24e30890683b7e0d4fba9
+run_name: youthful-stoat-620
+run_uuid: b1a3a48d2de24e30890683b7e0d4fba9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726642925785
+status: 4
+tags: []
+user_id: yatish

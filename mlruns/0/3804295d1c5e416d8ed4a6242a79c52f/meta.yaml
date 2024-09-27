@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/3804295d1c5e416d8ed4a6242a79c52f/artifacts
+deleted_time: 1726644239925
+end_time: 1726644011253
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3804295d1c5e416d8ed4a6242a79c52f
+run_name: beautiful-fawn-20
+run_uuid: 3804295d1c5e416d8ed4a6242a79c52f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726644005130
+status: 3
+tags: []
+user_id: yatish

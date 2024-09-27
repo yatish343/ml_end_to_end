@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/8014e9de4b83419e9c910bffcc78124c/artifacts
+deleted_time: 1726643443219
+end_time: 1726642873243
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8014e9de4b83419e9c910bffcc78124c
+run_name: whimsical-quail-227
+run_uuid: 8014e9de4b83419e9c910bffcc78124c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726642866919
+status: 4
+tags: []
+user_id: yatish

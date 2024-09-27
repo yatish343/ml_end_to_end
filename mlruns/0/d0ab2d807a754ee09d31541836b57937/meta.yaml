@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d0ab2d807a754ee09d31541836b57937/artifacts
+end_time: 1727334704495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0ab2d807a754ee09d31541836b57937
+run_name: unique-mule-30
+run_uuid: d0ab2d807a754ee09d31541836b57937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727334698566
+status: 3
+tags: []
+user_id: yatish

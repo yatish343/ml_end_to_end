@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/5afab68d38864226bad9251bfd51be9a/artifacts
+deleted_time: 1726643443071
+end_time: 1726643289657
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5afab68d38864226bad9251bfd51be9a
+run_name: nebulous-kite-57
+run_uuid: 5afab68d38864226bad9251bfd51be9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643284132
+status: 4
+tags: []
+user_id: yatish

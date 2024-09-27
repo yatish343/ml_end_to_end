@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/aebe165a153745e894df2e7479cc4468/artifacts
+deleted_time: 1726643443249
+end_time: 1726642809613
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: aebe165a153745e894df2e7479cc4468
+run_name: popular-yak-311
+run_uuid: aebe165a153745e894df2e7479cc4468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726642804350
+status: 4
+tags: []
+user_id: yatish

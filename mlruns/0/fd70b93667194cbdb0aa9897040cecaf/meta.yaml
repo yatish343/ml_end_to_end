@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/fd70b93667194cbdb0aa9897040cecaf/artifacts
+deleted_time: 1726644239946
+end_time: 1726643889476
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fd70b93667194cbdb0aa9897040cecaf
+run_name: colorful-skink-164
+run_uuid: fd70b93667194cbdb0aa9897040cecaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643883826
+status: 3
+tags: []
+user_id: yatish

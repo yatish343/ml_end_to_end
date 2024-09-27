@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6cb2ea52db0b4fc8a44f12733b6f68fa/artifacts
+end_time: 1727334757315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6cb2ea52db0b4fc8a44f12733b6f68fa
+run_name: handsome-quail-428
+run_uuid: 6cb2ea52db0b4fc8a44f12733b6f68fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727334751541
+status: 3
+tags: []
+user_id: yatish

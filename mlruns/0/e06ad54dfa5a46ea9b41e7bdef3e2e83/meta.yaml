@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e06ad54dfa5a46ea9b41e7bdef3e2e83/artifacts
+end_time: 1726730442622
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e06ad54dfa5a46ea9b41e7bdef3e2e83
+run_name: puzzled-turtle-401
+run_uuid: e06ad54dfa5a46ea9b41e7bdef3e2e83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726730428849
+status: 3
+tags: []
+user_id: yatish

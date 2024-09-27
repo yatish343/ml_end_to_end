@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/fcf482786d4346eb91675b8b81ff3982/artifacts
+deleted_time: 1725964055823
+end_time: 1725963497479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fcf482786d4346eb91675b8b81ff3982
+run_name: amazing-robin-820
+run_uuid: fcf482786d4346eb91675b8b81ff3982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725963491633
+status: 4
+tags: []
+user_id: yatish

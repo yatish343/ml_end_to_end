@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/611422345ef049918292104a0898c770/artifacts
+deleted_time: 1726644240003
+end_time: 1726643643517
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 611422345ef049918292104a0898c770
+run_name: tasteful-toad-375
+run_uuid: 611422345ef049918292104a0898c770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643637697
+status: 3
+tags: []
+user_id: yatish

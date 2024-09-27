@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/52f82dc4c69e4790bdb1cc09151f4fba/artifacts
+deleted_time: 1726644240011
+end_time: 1726643627110
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 52f82dc4c69e4790bdb1cc09151f4fba
+run_name: likeable-koi-503
+run_uuid: 52f82dc4c69e4790bdb1cc09151f4fba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643621606
+status: 3
+tags: []
+user_id: yatish

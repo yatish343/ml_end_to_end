@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/fff2107f7f9d4beeb9990599d285ac47/artifacts
+deleted_time: 1725964055823
+end_time: 1725962603794
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fff2107f7f9d4beeb9990599d285ac47
+run_name: adorable-carp-355
+run_uuid: fff2107f7f9d4beeb9990599d285ac47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725962596808
+status: 4
+tags: []
+user_id: yatish

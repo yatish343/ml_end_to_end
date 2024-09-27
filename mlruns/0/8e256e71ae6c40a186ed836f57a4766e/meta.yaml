@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/8e256e71ae6c40a186ed836f57a4766e/artifacts
+deleted_time: 1726643443116
+end_time: 1726643109393
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8e256e71ae6c40a186ed836f57a4766e
+run_name: resilient-cow-451
+run_uuid: 8e256e71ae6c40a186ed836f57a4766e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643103907
+status: 4
+tags: []
+user_id: yatish

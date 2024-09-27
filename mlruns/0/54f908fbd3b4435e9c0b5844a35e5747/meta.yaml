@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/54f908fbd3b4435e9c0b5844a35e5747/artifacts
+deleted_time: 1726643443117
+end_time: 1726643139140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 54f908fbd3b4435e9c0b5844a35e5747
+run_name: honorable-mule-448
+run_uuid: 54f908fbd3b4435e9c0b5844a35e5747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643133391
+status: 4
+tags: []
+user_id: yatish

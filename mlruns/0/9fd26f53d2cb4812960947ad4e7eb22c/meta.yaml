@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/9fd26f53d2cb4812960947ad4e7eb22c/artifacts
+deleted_time: 1726644239982
+end_time: 1726643775916
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9fd26f53d2cb4812960947ad4e7eb22c
+run_name: defiant-pig-86
+run_uuid: 9fd26f53d2cb4812960947ad4e7eb22c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643770131
+status: 3
+tags: []
+user_id: yatish

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/f9803f72bd844a749a38d973219e17a5/artifacts
+deleted_time: 1725962387578
+end_time: 1725959429509
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f9803f72bd844a749a38d973219e17a5
+run_name: blushing-bug-527
+run_uuid: f9803f72bd844a749a38d973219e17a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725959426543
+status: 4
+tags: []
+user_id: yatish

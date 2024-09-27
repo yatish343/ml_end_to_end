@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/c48f378a1c86441aa11e2e975679744d/artifacts
+deleted_time: 1726643443076
+end_time: 1726643263739
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c48f378a1c86441aa11e2e975679744d
+run_name: stylish-grouse-702
+run_uuid: c48f378a1c86441aa11e2e975679744d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643258336
+status: 4
+tags: []
+user_id: yatish

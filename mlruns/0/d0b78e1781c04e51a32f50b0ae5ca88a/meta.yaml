@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/d0b78e1781c04e51a32f50b0ae5ca88a/artifacts
+deleted_time: 1726643443277
+end_time: 1726639819336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d0b78e1781c04e51a32f50b0ae5ca88a
+run_name: amazing-dove-787
+run_uuid: d0b78e1781c04e51a32f50b0ae5ca88a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726639813982
+status: 4
+tags: []
+user_id: yatish

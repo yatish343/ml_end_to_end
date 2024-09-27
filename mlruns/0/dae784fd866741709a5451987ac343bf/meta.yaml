@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/dae784fd866741709a5451987ac343bf/artifacts
+deleted_time: 1726643443150
+end_time: 1726642991888
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: dae784fd866741709a5451987ac343bf
+run_name: resilient-swan-219
+run_uuid: dae784fd866741709a5451987ac343bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726642986217
+status: 4
+tags: []
+user_id: yatish

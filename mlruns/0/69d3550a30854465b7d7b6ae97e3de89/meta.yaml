@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/69d3550a30854465b7d7b6ae97e3de89/artifacts
+deleted_time: 1726644240070
+end_time: 1726643381916
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 69d3550a30854465b7d7b6ae97e3de89
+run_name: inquisitive-loon-134
+run_uuid: 69d3550a30854465b7d7b6ae97e3de89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643375774
+status: 3
+tags: []
+user_id: yatish

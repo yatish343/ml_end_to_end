@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/2b8e3bebe0884914bb0a112ad2ab814b/artifacts
+deleted_time: 1726644240053
+end_time: 1726643497984
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2b8e3bebe0884914bb0a112ad2ab814b
+run_name: kindly-finch-874
+run_uuid: 2b8e3bebe0884914bb0a112ad2ab814b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643492425
+status: 3
+tags: []
+user_id: yatish

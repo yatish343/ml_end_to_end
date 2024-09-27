@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/a5817e350dde4e50b182095c5d6affd8/artifacts
+deleted_time: 1726643443067
+end_time: 1726643302648
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a5817e350dde4e50b182095c5d6affd8
+run_name: valuable-wren-635
+run_uuid: a5817e350dde4e50b182095c5d6affd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643297045
+status: 4
+tags: []
+user_id: yatish

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/0983d57495a146f99846a54c65ac271a/artifacts
+deleted_time: 1726644240048
+end_time: 1726643515967
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0983d57495a146f99846a54c65ac271a
+run_name: fun-newt-881
+run_uuid: 0983d57495a146f99846a54c65ac271a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643510435
+status: 3
+tags: []
+user_id: yatish

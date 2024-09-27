@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/1438faebc8de4bc8ab10e7fa81293a84/artifacts
+deleted_time: 1726575568030
+end_time: 1726050253198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1438faebc8de4bc8ab10e7fa81293a84
+run_name: mercurial-panda-323
+run_uuid: 1438faebc8de4bc8ab10e7fa81293a84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726050252351
+status: 4
+tags: []
+user_id: yatish

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/0eea071233754ea192f0e970ffd548d8/artifacts
+deleted_time: 1726643443089
+end_time: 1726643205650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0eea071233754ea192f0e970ffd548d8
+run_name: clean-ant-582
+run_uuid: 0eea071233754ea192f0e970ffd548d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643197971
+status: 4
+tags: []
+user_id: yatish

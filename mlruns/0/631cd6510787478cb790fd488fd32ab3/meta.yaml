@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/631cd6510787478cb790fd488fd32ab3/artifacts
+deleted_time: 1726644240084
+end_time: 1726643333637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 631cd6510787478cb790fd488fd32ab3
+run_name: mercurial-shad-496
+run_uuid: 631cd6510787478cb790fd488fd32ab3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643327720
+status: 3
+tags: []
+user_id: yatish

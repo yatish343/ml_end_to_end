@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bd61a2d2a45943d198b329b41230ffd4/artifacts
+end_time: 1726644631268
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd61a2d2a45943d198b329b41230ffd4
+run_name: dapper-koi-87
+run_uuid: bd61a2d2a45943d198b329b41230ffd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726644625868
+status: 3
+tags: []
+user_id: yatish

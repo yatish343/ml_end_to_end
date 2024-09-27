@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/24db4b70fba14101baa81136c5942ccf/artifacts
+deleted_time: 1726644239949
+end_time: 1726643876684
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 24db4b70fba14101baa81136c5942ccf
+run_name: abrasive-moth-737
+run_uuid: 24db4b70fba14101baa81136c5942ccf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643871042
+status: 3
+tags: []
+user_id: yatish

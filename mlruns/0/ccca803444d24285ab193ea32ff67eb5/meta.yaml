@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ccca803444d24285ab193ea32ff67eb5/artifacts
+deleted_time: 1725962387573
+end_time: 1725959416081
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ccca803444d24285ab193ea32ff67eb5
+run_name: traveling-lynx-996
+run_uuid: ccca803444d24285ab193ea32ff67eb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725959413147
+status: 4
+tags: []
+user_id: yatish

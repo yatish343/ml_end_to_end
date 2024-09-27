@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/64ecc82724d04288845b5d49680b9f3c/artifacts
+deleted_time: 1726643443119
+end_time: 1726643023747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 64ecc82724d04288845b5d49680b9f3c
+run_name: rebellious-robin-618
+run_uuid: 64ecc82724d04288845b5d49680b9f3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643018297
+status: 4
+tags: []
+user_id: yatish

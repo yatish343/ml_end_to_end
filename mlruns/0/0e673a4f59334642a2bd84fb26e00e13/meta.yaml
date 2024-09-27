@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0e673a4f59334642a2bd84fb26e00e13/artifacts
+end_time: 1726730241813
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e673a4f59334642a2bd84fb26e00e13
+run_name: valuable-sloth-76
+run_uuid: 0e673a4f59334642a2bd84fb26e00e13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726730234358
+status: 4
+tags: []
+user_id: yatish

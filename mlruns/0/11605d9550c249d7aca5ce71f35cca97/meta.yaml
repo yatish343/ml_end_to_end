@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/11605d9550c249d7aca5ce71f35cca97/artifacts
+deleted_time: 1726644239932
+end_time: 1726643988755
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 11605d9550c249d7aca5ce71f35cca97
+run_name: casual-crab-297
+run_uuid: 11605d9550c249d7aca5ce71f35cca97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643982708
+status: 3
+tags: []
+user_id: yatish

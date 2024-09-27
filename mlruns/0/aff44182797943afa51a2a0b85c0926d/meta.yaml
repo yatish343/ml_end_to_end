@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/aff44182797943afa51a2a0b85c0926d/artifacts
+deleted_time: 1726643443244
+end_time: 1726642840008
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: aff44182797943afa51a2a0b85c0926d
+run_name: burly-turtle-155
+run_uuid: aff44182797943afa51a2a0b85c0926d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726642834497
+status: 4
+tags: []
+user_id: yatish

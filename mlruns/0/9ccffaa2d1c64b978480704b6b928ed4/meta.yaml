@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/9ccffaa2d1c64b978480704b6b928ed4/artifacts
+deleted_time: 1726644240080
+end_time: 1726643318298
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9ccffaa2d1c64b978480704b6b928ed4
+run_name: wistful-goose-727
+run_uuid: 9ccffaa2d1c64b978480704b6b928ed4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643312378
+status: 3
+tags: []
+user_id: yatish

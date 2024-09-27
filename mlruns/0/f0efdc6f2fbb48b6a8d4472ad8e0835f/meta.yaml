@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/f0efdc6f2fbb48b6a8d4472ad8e0835f/artifacts
+deleted_time: 1726643443068
+end_time: 1726639502912
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f0efdc6f2fbb48b6a8d4472ad8e0835f
+run_name: unique-lynx-240
+run_uuid: f0efdc6f2fbb48b6a8d4472ad8e0835f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726639497151
+status: 4
+tags: []
+user_id: yatish

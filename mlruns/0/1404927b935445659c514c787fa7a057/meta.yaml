@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/1404927b935445659c514c787fa7a057/artifacts
+deleted_time: 1726644240027
+end_time: 1726643564387
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1404927b935445659c514c787fa7a057
+run_name: salty-perch-164
+run_uuid: 1404927b935445659c514c787fa7a057
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643558749
+status: 3
+tags: []
+user_id: yatish

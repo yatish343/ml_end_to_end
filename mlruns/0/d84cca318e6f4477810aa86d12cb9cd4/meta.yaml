@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/d84cca318e6f4477810aa86d12cb9cd4/artifacts
+deleted_time: 1726644239942
+end_time: 1726643948541
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d84cca318e6f4477810aa86d12cb9cd4
+run_name: traveling-hound-483
+run_uuid: d84cca318e6f4477810aa86d12cb9cd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643942672
+status: 3
+tags: []
+user_id: yatish

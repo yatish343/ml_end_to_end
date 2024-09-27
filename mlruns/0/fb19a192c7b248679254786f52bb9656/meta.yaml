@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/fb19a192c7b248679254786f52bb9656/artifacts
+deleted_time: 1726644239972
+end_time: 1726643793186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fb19a192c7b248679254786f52bb9656
+run_name: unequaled-sow-826
+run_uuid: fb19a192c7b248679254786f52bb9656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643787497
+status: 3
+tags: []
+user_id: yatish

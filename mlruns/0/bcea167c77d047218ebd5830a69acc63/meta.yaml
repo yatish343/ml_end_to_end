@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/bcea167c77d047218ebd5830a69acc63/artifacts
+deleted_time: 1726644239958
+end_time: 1726643863648
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: bcea167c77d047218ebd5830a69acc63
+run_name: unequaled-grouse-484
+run_uuid: bcea167c77d047218ebd5830a69acc63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643858066
+status: 3
+tags: []
+user_id: yatish

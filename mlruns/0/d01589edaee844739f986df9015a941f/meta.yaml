@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/d01589edaee844739f986df9015a941f/artifacts
+deleted_time: 1726643443113
+end_time: 1726643125371
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d01589edaee844739f986df9015a941f
+run_name: capricious-shad-702
+run_uuid: d01589edaee844739f986df9015a941f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643119584
+status: 4
+tags: []
+user_id: yatish

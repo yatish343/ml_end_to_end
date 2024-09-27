@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/3830f27c966a467494bd3cbee7ac75c2/artifacts
+deleted_time: 1726643443092
+end_time: 1726643187238
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3830f27c966a467494bd3cbee7ac75c2
+run_name: puzzled-auk-314
+run_uuid: 3830f27c966a467494bd3cbee7ac75c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643181551
+status: 4
+tags: []
+user_id: yatish

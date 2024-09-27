@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/f8fb7a3b8da444d5b3c2176a4393665e/artifacts
+deleted_time: 1726644240056
+end_time: 1726643465472
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f8fb7a3b8da444d5b3c2176a4393665e
+run_name: casual-kit-620
+run_uuid: f8fb7a3b8da444d5b3c2176a4393665e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643459668
+status: 3
+tags: []
+user_id: yatish

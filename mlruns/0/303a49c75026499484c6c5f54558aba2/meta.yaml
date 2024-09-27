@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/303a49c75026499484c6c5f54558aba2/artifacts
+deleted_time: 1726644239922
+end_time: 1726644237226
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 303a49c75026499484c6c5f54558aba2
+run_name: skillful-gnu-284
+run_uuid: 303a49c75026499484c6c5f54558aba2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726644231133
+status: 3
+tags: []
+user_id: yatish

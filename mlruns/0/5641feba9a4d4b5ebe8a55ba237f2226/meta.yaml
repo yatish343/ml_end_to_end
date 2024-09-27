@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/5641feba9a4d4b5ebe8a55ba237f2226/artifacts
+deleted_time: 1726643443086
+end_time: 1726643218694
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5641feba9a4d4b5ebe8a55ba237f2226
+run_name: likeable-snipe-969
+run_uuid: 5641feba9a4d4b5ebe8a55ba237f2226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643212985
+status: 4
+tags: []
+user_id: yatish

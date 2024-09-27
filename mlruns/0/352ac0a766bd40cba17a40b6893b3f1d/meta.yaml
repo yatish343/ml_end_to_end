@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/352ac0a766bd40cba17a40b6893b3f1d/artifacts
+deleted_time: 1726644239959
+end_time: 1726643850904
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 352ac0a766bd40cba17a40b6893b3f1d
+run_name: resilient-chimp-80
+run_uuid: 352ac0a766bd40cba17a40b6893b3f1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643845123
+status: 3
+tags: []
+user_id: yatish

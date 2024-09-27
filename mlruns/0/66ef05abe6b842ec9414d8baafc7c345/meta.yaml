@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/66ef05abe6b842ec9414d8baafc7c345/artifacts
+deleted_time: 1726643443141
+end_time: 1726643008328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 66ef05abe6b842ec9414d8baafc7c345
+run_name: indecisive-shark-321
+run_uuid: 66ef05abe6b842ec9414d8baafc7c345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643002589
+status: 4
+tags: []
+user_id: yatish

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/82ac59fd262945f8bbc2e00bf91ad13a/artifacts
+deleted_time: 1726643443082
+end_time: 1726643248126
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 82ac59fd262945f8bbc2e00bf91ad13a
+run_name: bold-hen-16
+run_uuid: 82ac59fd262945f8bbc2e00bf91ad13a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643242385
+status: 4
+tags: []
+user_id: yatish

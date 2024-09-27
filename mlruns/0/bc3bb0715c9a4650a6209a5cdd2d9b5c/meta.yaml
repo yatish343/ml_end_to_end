@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/bc3bb0715c9a4650a6209a5cdd2d9b5c/artifacts
+deleted_time: 1726644240076
+end_time: 1726643350211
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: bc3bb0715c9a4650a6209a5cdd2d9b5c
+run_name: bald-pig-381
+run_uuid: bc3bb0715c9a4650a6209a5cdd2d9b5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643344301
+status: 3
+tags: []
+user_id: yatish

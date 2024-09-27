@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/9296359e0d0d40cda035c5fb80515202/artifacts
+deleted_time: 1726643443181
+end_time: 1726642916082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9296359e0d0d40cda035c5fb80515202
+run_name: efficient-pug-134
+run_uuid: 9296359e0d0d40cda035c5fb80515202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726642910853
+status: 4
+tags: []
+user_id: yatish

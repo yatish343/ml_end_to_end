@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/a3c44cd3551d42f29ce6a23c11503b26/artifacts
+deleted_time: 1726644239921
+end_time: 1726644037890
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a3c44cd3551d42f29ce6a23c11503b26
+run_name: receptive-chimp-341
+run_uuid: a3c44cd3551d42f29ce6a23c11503b26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726644031763
+status: 3
+tags: []
+user_id: yatish

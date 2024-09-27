@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/edc6c6a947b24639bc4edb634c634634/artifacts
+deleted_time: 1726644240068
+end_time: 1726643416002
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: edc6c6a947b24639bc4edb634c634634
+run_name: honorable-rat-39
+run_uuid: edc6c6a947b24639bc4edb634c634634
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643410066
+status: 3
+tags: []
+user_id: yatish

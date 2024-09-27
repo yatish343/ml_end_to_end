@@ -1,0 +1,82 @@
+name: Airflow DAG CI/CD
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+jobs:
+  airflow_dag_job:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8 # Adjust this to your Python version if necessary
+    - name: Set up AIRFLOW_HOME
+      run: |
+        export AIRFLOW_HOME=$(pwd)/airflow_home
+        echo "AIRFLOW_HOME=$AIRFLOW_HOME" >> $GITHUB_ENV
+    - name: Install dependencies
+      run: |
+        python -m venv venv
+        source venv/bin/activate
+        pip install apache-airflow
+        pip install pandas numpy scikit-learn mlflow joblib
+    - name: Initialize Airflow database
+      run: |
+        source venv/bin/activate
+        airflow db init
+    - name: Copy DAGs to Airflow DAGs folder
+      run: |
+        mkdir -p $AIRFLOW_HOME/dags
+        cp dags/*.py $AIRFLOW_HOME/dags/
+    - name: Check if DAG file exists
+      run: |
+        ls $AIRFLOW_HOME/dags/
+        if [ ! -f "$AIRFLOW_HOME/dags/iris.py" ]; then
+          echo "DAG file iris.py not found!"
+          exit 1
+        fi
+     
+    - name: Start Airflow Webserver
+      run: |
+        source venv/bin/activate
+        airflow webserver -p 8081 &
+        sleep 10 # Allow the webserver to start properly
+    - name: Start Airflow Scheduler
+      run: |
+        source venv/bin/activate
+        airflow scheduler &
+        sleep 30 # Increased sleep to ensure the scheduler has enough time to load DAGs
+    - name: List all available DAGs
+      run: |
+        source venv/bin/activate
+        airflow dags list
+    - name: Trigger Airflow DAG (iris_mlflow_dag)
+      run: |
+        source venv/bin/activate
+        airflow dags trigger iris_mlflow_dag
+    - name: Collect and store logs
+      run: |
+        mkdir -p logs
+        cp -r $AIRFLOW_HOME/logs/* logs/
+      if: failure()
+    - name: Upload logs as artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: airflow-logs
+        path: logs/
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,144 @@
+# from airflow import DAG
+# from airflow.operators.python_operator import PythonOperator
+# from datetime import datetime
+# from sklearn.datasets import load_iris
+# from sklearn.model_selection import train_test_split
+# from sklearn.ensemble import RandomForestClassifier
+# from sklearn.metrics import accuracy_score
+# import pandas as pd
+# import numpy as np
+
+# def load_data(**kwargs):
+#     data = load_iris(as_frame=True)
+#     df = pd.concat([data.data, data.target.rename('target')], axis=1)
+#     # Convert DataFrame to a dictionary for XCom
+#     kwargs['ti'].xcom_push(key='dataframe', value=df.to_dict())
+
+# def preprocess_data(**kwargs):
+#     df_dict = kwargs['ti'].xcom_pull(key='dataframe')
+#     # Convert dictionary back to DataFrame
+#     df = pd.DataFrame.from_dict(df_dict)
+#     X = df.drop(columns=['target'])
+#     y = df['target']
+#     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+#     # Convert DataFrame and Series to dictionaries and lists for XCom
+#     kwargs['ti'].xcom_push(key='X_train', value=X_train.to_dict())
+#     kwargs['ti'].xcom_push(key='X_test', value=X_test.to_dict())
+#     kwargs['ti'].xcom_push(key='y_train', value=y_train.tolist())
+#     kwargs['ti'].xcom_push(key='y_test', value=y_test.tolist())
+
+# def train_model(**kwargs):
+#     X_train_dict = kwargs['ti'].xcom_pull(key='X_train')
+#     y_train_list = kwargs['ti'].xcom_pull(key='y_train')
+#     # Convert dictionary and list back to DataFrame and Series
+#     X_train = pd.DataFrame.from_dict(X_train_dict)
+#     y_train = pd.Series(y_train_list)
+#     model = RandomForestClassifier(n_estimators=100, random_state=42)
+#     model.fit(X_train, y_train)
+#     kwargs['ti'].xcom_push(key='model', value=model)
+
+# def evaluate_model(**kwargs):
+#     X_test_dict = kwargs['ti'].xcom_pull(key='X_test')
+#     y_test_list = kwargs['ti'].xcom_pull(key='y_test')
+#     model = kwargs['ti'].xcom_pull(key='model')
+#     # Convert dictionary and list back to DataFrame and Series
+#     X_test = pd.DataFrame.from_dict(X_test_dict)
+#     y_test = pd.Series(y_test_list)
+#     y_pred = model.predict(X_test)
+#     accuracy = accuracy_score(y_test, y_pred)
+#     print(f"Model Accuracy: {accuracy}")
+
+# default_args = {
+#     'owner': 'user',
+#     'start_date': datetime(2024, 9, 3),
+#     'retries': 1,
+# }
+
+# with DAG(dag_id='ml_pipeline2',
+#          default_args=default_args,
+#          schedule_interval='@daily',
+#          catchup=False) as dag:
+
+#     load_data_task = PythonOperator(task_id='load_data', python_callable=load_data, provide_context=True)
+#     preprocess_data_task = PythonOperator(task_id='preprocess_data', python_callable=preprocess_data, provide_context=True)
+#     train_model_task = PythonOperator(task_id='train_model', python_callable=train_model, provide_context=True)
+#     evaluate_model_task = PythonOperator(task_id='evaluate_model', python_callable=evaluate_model, provide_context=True)
+
+#     load_data_task >> preprocess_data_task >> train_model_task >> evaluate_model_task
+from airflow import DAG
+from airflow.operators.python_operator import PythonOperator
+from datetime import datetime
+from sklearn.datasets import load_iris
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import accuracy_score
+import pandas as pd
+import joblib
+import os
+
+# Ensure the models directory exists
+if not os.path.exists('models'):
+    os.makedirs('models')
+
+def load_data(**kwargs):
+    data = load_iris(as_frame=True)
+    df = pd.concat([data.data, data.target.rename('target')], axis=1)
+    # Convert DataFrame to a dictionary for XCom
+    kwargs['ti'].xcom_push(key='dataframe', value=df.to_dict())
+
+def preprocess_data(**kwargs):
+    df_dict = kwargs['ti'].xcom_pull(key='dataframe')
+    # Convert dictionary back to DataFrame
+    df = pd.DataFrame.from_dict(df_dict)
+    X = df.drop(columns=['target'])
+    y = df['target']
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+    # Convert DataFrame and Series to dictionaries and lists for XCom
+    kwargs['ti'].xcom_push(key='X_train', value=X_train.to_dict())
+    kwargs['ti'].xcom_push(key='X_test', value=X_test.to_dict())
+    kwargs['ti'].xcom_push(key='y_train', value=y_train.tolist())
+    kwargs['ti'].xcom_push(key='y_test', value=y_test.tolist())
+
+def train_model(**kwargs):
+    X_train_dict = kwargs['ti'].xcom_pull(key='X_train')
+    y_train_list = kwargs['ti'].xcom_pull(key='y_train')
+    # Convert dictionary and list back to DataFrame and Series
+    X_train = pd.DataFrame.from_dict(X_train_dict)
+    y_train = pd.Series(y_train_list)
+    model = RandomForestClassifier(n_estimators=100, random_state=42)
+    model.fit(X_train, y_train)
+    # Save the model to disk for later use
+    model_path = 'models/model.pkl'
+    joblib.dump(model, model_path)
+    kwargs['ti'].xcom_push(key='model_path', value=model_path)
+
+def evaluate_model(**kwargs):
+    X_test_dict = kwargs['ti'].xcom_pull(key='X_test')
+    y_test_list = kwargs['ti'].xcom_pull(key='y_test')
+    model_path = kwargs['ti'].xcom_pull(key='model_path')
+    # Load the model from disk
+    model = joblib.load(model_path)
+    # Convert dictionary and list back to DataFrame and Series
+    X_test = pd.DataFrame.from_dict(X_test_dict)
+    y_test = pd.Series(y_test_list)
+    y_pred = model.predict(X_test)
+    accuracy = accuracy_score(y_test, y_pred)
+    print(f"Model Accuracy: {accuracy}")
+
+default_args = {
+    'owner': 'user',
+    'start_date': datetime(2024, 9, 3),
+    'retries': 1,
+}
+
+with DAG(dag_id='ml_pipeline2',
+         default_args=default_args,
+         schedule_interval='@daily',
+         catchup=False) as dag:
+
+    load_data_task = PythonOperator(task_id='load_data', python_callable=load_data, provide_context=True)
+    preprocess_data_task = PythonOperator(task_id='preprocess_data', python_callable=preprocess_data, provide_context=True)
+    train_model_task = PythonOperator(task_id='train_model', python_callable=train_model, provide_context=True)
+    evaluate_model_task = PythonOperator(task_id='evaluate_model', python_callable=evaluate_model, provide_context=True)
+
+    load_data_task >> preprocess_data_task >> train_model_task >> evaluate_model_task

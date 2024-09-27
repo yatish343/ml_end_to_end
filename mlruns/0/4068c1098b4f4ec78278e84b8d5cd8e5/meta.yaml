@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/4068c1098b4f4ec78278e84b8d5cd8e5/artifacts
+deleted_time: 1725964055824
+end_time: 1725963814838
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4068c1098b4f4ec78278e84b8d5cd8e5
+run_name: mercurial-lamb-804
+run_uuid: 4068c1098b4f4ec78278e84b8d5cd8e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725963806667
+status: 4
+tags: []
+user_id: yatish

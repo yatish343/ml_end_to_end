@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/4a488c83d5504445bade72e3bb8fb3e3/artifacts
+deleted_time: 1726644240059
+end_time: 1726643431466
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4a488c83d5504445bade72e3bb8fb3e3
+run_name: debonair-fish-935
+run_uuid: 4a488c83d5504445bade72e3bb8fb3e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643425588
+status: 3
+tags: []
+user_id: yatish

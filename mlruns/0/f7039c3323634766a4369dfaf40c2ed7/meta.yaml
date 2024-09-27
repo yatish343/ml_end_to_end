@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/f7039c3323634766a4369dfaf40c2ed7/artifacts
+deleted_time: 1726575568029
+end_time: 1726029317164
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f7039c3323634766a4369dfaf40c2ed7
+run_name: unique-crow-445
+run_uuid: f7039c3323634766a4369dfaf40c2ed7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726029311097
+status: 3
+tags: []
+user_id: yatish

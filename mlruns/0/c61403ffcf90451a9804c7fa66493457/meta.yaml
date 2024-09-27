@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c61403ffcf90451a9804c7fa66493457/artifacts
+end_time: 1727334770316
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c61403ffcf90451a9804c7fa66493457
+run_name: traveling-donkey-435
+run_uuid: c61403ffcf90451a9804c7fa66493457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727334764542
+status: 3
+tags: []
+user_id: yatish

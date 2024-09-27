@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/e4efbf682acc4650b9e915da8d46d521/artifacts
+deleted_time: 1726643443093
+end_time: 1726643170154
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e4efbf682acc4650b9e915da8d46d521
+run_name: defiant-snail-773
+run_uuid: e4efbf682acc4650b9e915da8d46d521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726643164447
+status: 4
+tags: []
+user_id: yatish
